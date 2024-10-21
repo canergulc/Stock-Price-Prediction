@@ -1,0 +1,9 @@
+alpha_vantage
+pandas
+numpy
+matplotlib
+statsmodels
+scikit-learn
+xgboost
+optuna
+tensorflow
